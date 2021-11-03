@@ -1,9 +1,13 @@
 *{
-    margin: 0
-;
-    padding: 0
-;
-
-;
-
+margin: 0;
+    padding: 0;
+    list-style: none;
+box-sizing: border-box;
+}
+img{
+    height: 500px;
+    width: 550px;
+}
+.img-start{
+    border: 5px solid cadetblue;
 }
